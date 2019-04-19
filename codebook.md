@@ -50,7 +50,7 @@ MEASUREMENTS:
 [79] "fBodyBodyGyroJerkMag-mean()",     "fBodyBodyGyroJerkMag-std()"     
 [81] "fBodyBodyGyroJerkMag-meanFreq()", "activityType"
 
-Activity Labels:
+ACTIVITY LABELS:
 
 WALKING (value 1): subject was walking during the test
 
