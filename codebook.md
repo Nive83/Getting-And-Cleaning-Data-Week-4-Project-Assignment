@@ -1,10 +1,13 @@
 This code book summarizes the resulting data fields in tidyDataset.txt or secTidySet.txt
 
 Identifiers:
+
 subjectId - The ID of the test subject
+
 activityId- The type of activity performed when the corresponding measurements were taken
 
 Measurements:
+
  [1] "subjectId"                       "activityId"                     
  [3] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [5] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
@@ -48,6 +51,7 @@ Measurements:
 [81] "fBodyBodyGyroJerkMag-meanFreq()" "activityType"
 
 Activity Labels:
+
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
 WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
